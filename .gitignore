@@ -1,0 +1,23 @@
+# 忽略临时文件夹
+/Saved/
+/Intermediate/
+/DerivedDataCache/
+
+# 忽略二进制文件
+/Binaries/
+/Build/
+
+# 忽略用户设置文件
+*.user
+*.suo
+*.log
+
+# 忽略构建文件
+*.pdb
+*.obj
+*.dll
+*.exe
+
+# 忽略自动生成的项目文件
+.vscode/
+.idea/
